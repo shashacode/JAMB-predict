@@ -111,3 +111,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, please contact:
 
 - **Bashirudeen Opeyemi**: [Bashirudeenopeyemi772@gmail.com](mailto:Bashirudeenopeyemi772@gmail.com)
+
+The rest of this repository file contains the .pbix for the data analysis and the data used to build the dashboard.
